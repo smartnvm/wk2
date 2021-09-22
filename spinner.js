@@ -43,11 +43,11 @@ const spinner = () => {
     key = 'b'
   }, 1500);
 
+  return key
 
 }
 
 
-return key
 
 x = spinner()
 
