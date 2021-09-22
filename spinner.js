@@ -47,15 +47,15 @@ const spinner = () => {
 }
 
 
-// return key
+return key
 
-// x = spinner()
+x = spinner()
 
 
-// setTimeout(() => {
-//   console.log(x)
-//   process.stdout.write('\n');
-//   console.log(x)
+setTimeout(() => {
+  console.log(x)
+  process.stdout.write('\n');
+  console.log(x)
 
-// }, 1800);
+}, 1800);
 
